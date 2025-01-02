@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @s44chi
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning computers
+- 👀 I’m interested in learning lots of new things
+- 🌱 I’m currently learning about computers
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me 
+- 📫 This is a cool emoji
 - ⚡ Fun fact: I can use a calculator. :)
 
 <!---
